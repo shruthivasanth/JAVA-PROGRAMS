@@ -3,6 +3,8 @@ class TheJava
    System.out.printfln("hello i am in github");
    
    main(){
+   
+  call();
    }
    
  }
